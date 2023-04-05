@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\full_stack_API.props" />
+</Project>
